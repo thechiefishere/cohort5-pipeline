@@ -3,7 +3,7 @@ phases:
   pre_build:
     commands:
       - echo $1
-      - echo "Hello"
+      - echo "Hello with latest update"
       - echo "Deploying with Github"
  
   build:
